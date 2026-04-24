@@ -6,7 +6,7 @@ This video demonstrates the complete mechanical assembly and hardware implementa
 ---
 
 ## 🎥 Video
-[Watch the Hardware Demo](https://youtu.be/hECpzw1IvPA](https://youtube.com/shorts/c6BtDx0TQbo?feature=share))
+[Watch the Hardware Demo](https://youtube.com/shorts/c6BtDx0TQbo?feature=share)
 
 ---
 
